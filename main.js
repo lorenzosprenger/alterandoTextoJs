@@ -13,9 +13,9 @@ const botao2 = document.getElementById('noChange').addEventListener( 'click', fu
 const textOptions=[
   "Texto modificado 1",
   "Texto modificado 2",
-  "Texto original",
-  "Mais um texto",
-  "Ultimo texto"
+  "Texto modificado 3",
+  "Texto modificado 4",
+  "Texto modificado 5"
   
 ]
 let p = document.getElementById('textToChange')
